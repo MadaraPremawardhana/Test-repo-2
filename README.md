@@ -1,5 +1,3 @@
 # Test-repo-2
 
-
-
-New line
+Conflict-test-on-new branch
